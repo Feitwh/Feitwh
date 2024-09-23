@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Feitwh
+- 👀 I’m interested in Pyhton and Java
+- 🌱 I’m currently learning Artificial İntelligence and SQL
+- 💞️ I’m looking to collaborate on my hobbies
